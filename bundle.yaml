@@ -6,3 +6,7 @@ jcasc:
   - "jenkins.yaml"
 plugins:
   - "plugins.yaml"
+catalog:
+  - "plugins-catalog.yaml"
+items:
+  - "items.yaml"
